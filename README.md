@@ -1,2 +1,3 @@
 # hello-world
-creating this repository Hello Worl for testing 
+creating this repository Hello World for testing 
+learning to create repository on github
